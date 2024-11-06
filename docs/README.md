@@ -1,6 +1,6 @@
 # BLT
 
-## End of Life
+## End of Life 
 
 Acquia has announced the end of life for BLT effective July 1, 2024. For more details, see https://github.com/acquia/blt/issues/4736
 
